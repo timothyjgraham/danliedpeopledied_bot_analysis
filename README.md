@@ -1,4 +1,4 @@
-# danliedpeopledied bot analysis
+# DanLiedPeopleDied bot analysis
 
 DanLiedPeopleDied hashtag analysis 
 We collect 5000 latest tweets and run a state-of-the-art bot detection model:
